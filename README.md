@@ -36,6 +36,8 @@ Built an end-to-end retail analytics project using **Google Sheets, BigQuery SQL
 - Analysed discount behaviour, yearly trends, regional performance, customer segments and product-level profitability
 - Built an interactive Tableau dashboard combining multiple analytical views
 - Translated findings into business recommendations focused on profitability and performance improvement
+- Source - https://www.kaggle.com/datasets/divyjn28/superstore-dataset 
+  
 
 **Tools:** Google Sheets | SQL | BigQuery | Tableau
 
@@ -51,6 +53,7 @@ Built a cross-country analysis using **World Bank data** to explore economic, di
 - Used Google BigQuery and SQL for cross-country and yearly analysis
 - Applied quantitative and trend analysis to investigate relationships between indicators
 - Built an interactive Tableau dashboard to communicate patterns and comparisons
+- Source - https://data.worldbank.org/
 
 **Tools:** SQL | Google BigQuery | Tableau | Google Sheets
 
