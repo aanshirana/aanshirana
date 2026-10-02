@@ -1,6 +1,6 @@
 # Hi, I'm Anshi Rana 👋
 
-### Business Analyst | MBA Business Analytics | Data Analysis • Process Improvement • Business Insights
+###  Junior Business Analyst | MBA Business Analytics | Data Analysis • Process Improvement • Business Insights
 
 I'm an MBA Business Analytics graduate based in London, combining hands-on experience in regulated healthcare operations with practical skills in business and data analytics.
 
@@ -11,7 +11,7 @@ I'm particularly interested in the intersection of **people, processes and data*
 ## 🔎 What I Bring
 
 - MBA in Business Analytics
-- 2.5+ years of experience in regulated healthcare operations
+- Nearly 3 years of experience in regulated healthcare operations
 - 40% improvement in problem-resolution efficiency
 - 80% higher average transaction value compared with colleague average
 - 90% first-time accuracy on compliance-critical tasks
