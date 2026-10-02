@@ -69,6 +69,8 @@ Built a focused healthcare analytics project using publicly available **NHS Engl
 - Used Google Sheets and BigQuery SQL to explore healthcare data
 - Identified key cost drivers across BNF therapeutic categories
 - Connected healthcare analytics with practical experience in regulated pharmacy operations
+- Source - https://www.nhsbsa.nhs.uk/prescription-data/dispensing-data/prescription-cost-analysis-pca-data
+- Source - https://www.nhsbsa.nhs.uk/statistical-collections/prescription-cost-analysis-england
 
 **Tools:** Google Sheets | SQL | Google BigQuery
 
@@ -79,6 +81,8 @@ Built a focused healthcare analytics project using publicly available **NHS Engl
 ### 👟 SwiftKicks Sales Analysis
 
 Analysed sales and business performance data to identify key trends, performance patterns and actionable insights.
+
+Dissertation case study 
 
 **Focus:** Sales Analysis | Business Performance | KPI Analysis | Data-Driven Insights
 
