@@ -1,4 +1,4 @@
-# Hi, I'm Anshi Rana 👋
+# Hi, I'm Anshi Rana 
 
 ###  Junior Business Analyst | MBA Business Analytics | Data Analysis • Process Improvement • Business Insights
 
